@@ -5,7 +5,7 @@
 
 - 🌱 **I’m currently learning:** The complete RTL-to-layout ASIC flow and System-on-Chip (SoC) design during my internship.
 
-- ⚡ **Recent milestones:** I recently built a fully pipelined Hardware Accelerator for MNIST (150 MHz, 6.08 µs latency) and founded a CMOS peer-learning group at my university! 
+- ⚡ **Recent milestones:** I recently built a fully pipelined Hardware Accelerator for MNIST (150 MHz, 6.08 µs latency).
 
 - 👯 **I’m looking to collaborate on:** Hardware projects, especially accelerators for ML models and FPGA implementations.
 
