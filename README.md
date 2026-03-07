@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhia Kessad</h1>
-<h3 align="center">I'm a 3rd-year Micro and Nanoelectronics engineering student at 3SN (Algiers). I am self-studying my path through VLSI and digital chip design.</h3>
+<h3 align="center">I'm a 3rd-year Micro and Nanoelectronics engineering student (Algiers). I am self-studying my path through VLSI and digital chip design.</h3>
 
 - 🔭 **I’m currently working on:**[ECG Arrhythmia detection via Hardware ML Accelerator.](https://github.com/DhiaKessad/ecg-cnn-fpga-deployment) I have developed the neural model on my Virtex-6 FPGA using Verilog, finished the simulation phase, and am now implementing it with real ECG modules!
 
