@@ -7,7 +7,7 @@
 
 - ⚡ **Recent milestones:** I recently built a fully pipelined Hardware Accelerator for MNIST (150 MHz, 6.08 µs latency).
 
-- 👯 **I’m looking to collaborate on:** **Edge AI and computer acceleration for medicine and health.**
+- 👯 **I’m looking to collaborate on:** Edge AI and computer acceleration for medicine and health.
 
 - 🤝 **I’m looking for help with:** Digital chip design, moving towards ASICs, and physical design.
 
