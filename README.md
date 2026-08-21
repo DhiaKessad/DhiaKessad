@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Dhia Kessad</h1>
-<h3 align="center">I'm a 3rd-year Micro and Nanoelectronics engineering student (Algiers). I am self-studying my path through VLSI and digital chip design.</h3>
 
-- 🔭 **I’m currently working on:**[ECG Arrhythmia detection via Hardware ML Accelerator.](https://github.com/DhiaKessad/ecg-cnn-fpga-deployment) I have developed the neural model on my Virtex-6 FPGA using Verilog, finished the simulation phase, and am now implementing it with real ECG modules!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=1B4F72&center=true&vCenter=true&width=560&lines=Micro+%26+Nanoelectronics+%26+Photonics;Silicon+Photonics+%2F+Opto-Silicon;VLSI+%2F+ASIC+Design;FPGA+%2B+Hardware+Accelerators" alt="Typing animation" />
+</p>
 
+<h3 align="center">Master's student in Micro-Nanoelectronics and Photonics (M1 E3A) at Université Paris-Saclay. I am self-studying my path through VLSI and digital chip design.</h3>
+
+- 🔭 **I’m currently working on:** Exploring opto-silicon / silicon photonics as part of my Master's at Paris-Saclay.
 - 🌱 **I’m currently learning:** The complete RTL-to-layout ASIC flow and System-on-Chip (SoC) design during my internship.
-
-- ⚡ **Recent milestones:** I recently built a fully pipelined Hardware Accelerator for MNIST (150 MHz, 6.08 µs latency).
-
+- ⚡ **Recent milestones:** Completed [ECG Arrhythmia detection via Hardware ML Accelerator](https://github.com/DhiaKessad/ecg-cnn-fpga-deployment) — neural model deployed and validated on a Virtex-6 FPGA in Verilog. Also built a fully pipelined Hardware Accelerator for MNIST (150 MHz, 6.08 µs latency).
 - 👯 **I’m looking to collaborate on:** Edge AI and computer acceleration for medicine and health.
-
 - 🤝 **I’m looking for help with:** Digital chip design, moving towards ASICs, and physical design.
-
 - 📫 **How to reach me:** **kessad.meddhiaeddine@gmail.com**
 
 <br/>
@@ -46,5 +46,5 @@
 
 **Tools** <br/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/KiCad-PCB_Design-314CB6?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
+<img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
