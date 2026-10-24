@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=1B4F72&center=true&vCenter=true&width=560&lines=Micro+%26+Nanoelectronics+%26+Photonics;Silicon+Photonics+%2F+Opto-Silicon;VLSI+%2F+ASIC+Design;FPGA+%2B+Hardware+Accelerators" alt="Typing animation" />
 </p>
 
-<h3 align="center">Master's student in Micro-Nanoelectronics and Photonics (M1 E3A) at Université Paris-Saclay. I am self-studying my path through VLSI and digital chip design.</h3>
+<h3 align="center">Master's student in Micro-Nanoelectronics and Photonics (M1 E3A) at Université Paris-Saclay. I am interested in Applied physics.</h3>
 
 - 🔭 **I’m currently working on:** Exploring opto-silicon / silicon photonics as part of my Master's at Paris-Saclay.
 - 🌱 **I’m currently learning:** The complete RTL-to-layout ASIC flow and System-on-Chip (SoC) design during my internship.
